@@ -21,7 +21,7 @@ Secure Login System
 
 🏗️ System Architecture
 
- User Login
+User Login
      │
      ▼
 Financial Data Input
@@ -36,7 +36,8 @@ AI / Risk Analysis
 Visualization Dashboard
      │
      ▼
-Loan Decision Recommendation
+Loan Decision RecommendationUser Login
+
 
 
 🛠️ Technologies Used
