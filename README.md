@@ -68,6 +68,7 @@ Version Control
 Git & GitHub
 
 📁 Project Structure
+
 intellicredit/
 │
 ├── backend/                 # Backend server
