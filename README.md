@@ -22,10 +22,8 @@ Secure Login System
 🏗️ System Architecture
 
  User Login
- 
      │
-     
-     
+     ▼
 Financial Data Input
      │
      ▼
@@ -39,6 +37,8 @@ Visualization Dashboard
      │
      ▼
 Loan Decision Recommendation
+
+
 🛠️ Technologies Used
 Frontend
 
