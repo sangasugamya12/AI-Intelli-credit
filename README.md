@@ -20,7 +20,8 @@ Credit Risk Score Generation
 Secure Login System
 
 🏗️ System Architecture
-User Login
+
+ User Login
      │
      ▼
      
