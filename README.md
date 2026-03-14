@@ -22,8 +22,9 @@ Secure Login System
 🏗️ System Architecture
 
  User Login
+ 
      │
-     ▼
+     
      
 Financial Data Input
      │
