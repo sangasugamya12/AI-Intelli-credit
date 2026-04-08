@@ -150,6 +150,9 @@ Real-time financial data analysis
 
 👥 Author
 
-Anjali Maloth
+Sanga Sugamya
+
+
+
 
 
