@@ -1375,8 +1375,12 @@ function LoginScreen({ onLogin }) {
     if (!email || !pass) return;
     setLoading(true); setErr(false);
     await sleep(1100);
-    if (email.includes("@") && pass.length >= 6) onLogin(email.split("@")[0].replace(/\./g," ").replace(/\b\w/g,c=>c.toUpperCase()));
-    else { setErr(true); setLoading(false); }
+
+    if (email === "admin@gmail.com" && pass === "admin123") {
+    onLogin(email.split("@")[0].replace(/\./g," ").replace(/\b\w/g,c=>c.toUpperCase()));
+    } else {
+    setErr(true);
+    setLoading(false);}    
   };
 
   /* ── SPLASH ── */
